@@ -1,0 +1,170 @@
+Started: 2026-11-19T19:46:53
+Log file: D:\jakarta-heat\outputs\logs\05a_20261119_194653.log
+Hard deadline: 30 minutes; cancel earlier if scan-based planning estimate exceeds it.
+[1/4] Streaming local OSM: keep walkable roads only
+  Pass 1/2: filter ways: 13.1%, 25.0 MB/s, scan ETA 1.1 min
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (15s)
+  Pass 1/2: filter ways: 23.1%, 22.0 MB/s, scan ETA 1.1 min
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (30s)
+  Pass 1/2: filter ways: 33.2%, 21.1 MB/s, scan ETA 1.0 min
+  Pass 1/2: filter ways: 42.6%, 20.3 MB/s, scan ETA 0.9 min
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (45s)
+  Pass 1/2: filter ways: 49.5%, 18.9 MB/s, scan ETA 0.9 min
+[Budget] elapsed 0.8 min; scan-based total estimate 5.4 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (60s)
+  Pass 1/2: filter ways: 57.7%, 18.3 MB/s, scan ETA 0.7 min
+[Budget] elapsed 1.0 min; scan-based total estimate 5.4 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 1/2: filter ways: 66.1%, 18.0 MB/s, scan ETA 0.6 min
+[Budget] elapsed 1.2 min; scan-based total estimate 5.5 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (75s)
+  Pass 1/2: filter ways: 68.7%, 16.4 MB/s, scan ETA 0.6 min
+[Budget] elapsed 1.3 min; scan-based total estimate 5.9 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (90s)
+  Pass 1/2: filter ways: 72.7%, 15.4 MB/s, scan ETA 0.6 min
+[Budget] elapsed 1.5 min; scan-based total estimate 6.2 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 1/2: filter ways: 76.3%, 14.6 MB/s, scan ETA 0.5 min
+[Budget] elapsed 1.7 min; scan-based total estimate 6.3 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (105s)
+  Pass 1/2: filter ways: 80.1%, 13.9 MB/s, scan ETA 0.5 min
+[Budget] elapsed 1.8 min; scan-based total estimate 6.6 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (120s)
+  Pass 1/2: filter ways: 83.6%, 13.3 MB/s, scan ETA 0.4 min
+[Budget] elapsed 2.0 min; scan-based total estimate 6.8 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 1/2: filter ways: 87.0%, 12.8 MB/s, scan ETA 0.3 min
+[Budget] elapsed 2.2 min; scan-based total estimate 6.9 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (135s)
+  Pass 1/2: filter ways: 90.6%, 12.3 MB/s, scan ETA 0.2 min
+[Budget] elapsed 2.3 min; scan-based total estimate 7.1 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (150s)
+  Pass 1/2: filter ways: 94.3%, 12.0 MB/s, scan ETA 0.2 min
+[Budget] elapsed 2.5 min; scan-based total estimate 7.4 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 1/2: filter ways: 96.2%, 11.5 MB/s, scan ETA 0.1 min
+[Budget] elapsed 2.7 min; scan-based total estimate 7.5 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (165s)
+  Pass 1/2: filter ways: 97.3%, 10.9 MB/s, scan ETA 0.1 min
+[Budget] elapsed 2.8 min; scan-based total estimate 7.9 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (180s)
+  Pass 1/2: filter ways: 98.4%, 10.4 MB/s, scan ETA 0.0 min
+[Budget] elapsed 3.0 min; scan-based total estimate 8.1 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 1/2: filter ways: 100.0%, 10.2 MB/s, scan ETA 0.0 min
+[Budget] elapsed 3.1 min; scan-based total estimate 8.2 min (includes a 2-min graph reserve, not a benchmark).
+  Retained 161,589 ways; 654,621 referenced nodes
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (195s)
+  Pass 2/2: extract road nodes: 2.7%, 5.1 MB/s, scan ETA 6.1 min
+[Budget] elapsed 3.3 min; scan-based total estimate 11.4 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 2/2: extract road nodes: 9.5%, 9.0 MB/s, scan ETA 3.2 min
+[Budget] elapsed 3.5 min; scan-based total estimate 8.7 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (210s)
+  Pass 2/2: extract road nodes: 15.9%, 10.1 MB/s, scan ETA 2.7 min
+[Budget] elapsed 3.7 min; scan-based total estimate 8.4 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (225s)
+  Pass 2/2: extract road nodes: 22.1%, 10.5 MB/s, scan ETA 2.3 min
+[Budget] elapsed 3.8 min; scan-based total estimate 8.1 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 2/2: extract road nodes: 29.4%, 11.2 MB/s, scan ETA 2.0 min
+[Budget] elapsed 4.0 min; scan-based total estimate 8.0 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (240s)
+  Pass 2/2: extract road nodes: 36.2%, 11.5 MB/s, scan ETA 1.8 min
+[Budget] elapsed 4.2 min; scan-based total estimate 8.0 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (255s)
+  Pass 2/2: extract road nodes: 42.9%, 11.7 MB/s, scan ETA 1.6 min
+[Budget] elapsed 4.3 min; scan-based total estimate 7.9 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 2/2: extract road nodes: 50.0%, 11.9 MB/s, scan ETA 1.3 min
+[Budget] elapsed 4.5 min; scan-based total estimate 7.8 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (270s)
+  Pass 2/2: extract road nodes: 57.8%, 12.3 MB/s, scan ETA 1.1 min
+[Budget] elapsed 4.7 min; scan-based total estimate 7.8 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (285s)
+  Pass 2/2: extract road nodes: 60.2%, 11.5 MB/s, scan ETA 1.1 min
+[Budget] elapsed 4.8 min; scan-based total estimate 7.9 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 2/2: extract road nodes: 61.3%, 10.6 MB/s, scan ETA 1.2 min
+[Budget] elapsed 5.0 min; scan-based total estimate 8.2 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (300s)
+  Pass 2/2: extract road nodes: 62.6%, 9.9 MB/s, scan ETA 1.2 min
+[Budget] elapsed 5.2 min; scan-based total estimate 8.4 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (315s)
+  Pass 2/2: extract road nodes: 64.1%, 9.4 MB/s, scan ETA 1.2 min
+[Budget] elapsed 5.3 min; scan-based total estimate 8.5 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 2/2: extract road nodes: 66.4%, 9.0 MB/s, scan ETA 1.2 min
+[Budget] elapsed 5.5 min; scan-based total estimate 8.7 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (330s)
+  Pass 2/2: extract road nodes: 71.7%, 9.1 MB/s, scan ETA 1.0 min
+[Budget] elapsed 5.7 min; scan-based total estimate 8.7 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (345s)
+  Pass 2/2: extract road nodes: 76.9%, 9.2 MB/s, scan ETA 0.8 min
+[Budget] elapsed 5.8 min; scan-based total estimate 8.6 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 2/2: extract road nodes: 82.2%, 9.2 MB/s, scan ETA 0.6 min
+[Budget] elapsed 6.0 min; scan-based total estimate 8.6 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (360s)
+  Pass 2/2: extract road nodes: 87.6%, 9.3 MB/s, scan ETA 0.4 min
+[Budget] elapsed 6.2 min; scan-based total estimate 8.6 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (375s)
+  Pass 2/2: extract road nodes: 93.0%, 9.3 MB/s, scan ETA 0.2 min
+[Budget] elapsed 6.3 min; scan-based total estimate 8.5 min (includes a 2-min graph reserve, not a benchmark).
+  Pass 2/2: extract road nodes: 98.3%, 9.4 MB/s, scan ETA 0.1 min
+[Budget] elapsed 6.5 min; scan-based total estimate 8.6 min (includes a 2-min graph reserve, not a benchmark).
+  Still working: [1/4] Streaming local OSM: keep walkable roads only (390s)
+  Pass 2/2: extract road nodes: 100.0%, 9.4 MB/s, scan ETA 0.0 min
+[Budget] elapsed 6.5 min; scan-based total estimate 8.5 min (includes a 2-min graph reserve, not a benchmark).
+Filtered XML: 97.2 MB
+  Elapsed: 392.8s
+[2/4] Building and simplifying filtered walking graph
+  Still working: [2/4] Building and simplifying filtered walking graph (15s)
+  Still working: [2/4] Building and simplifying filtered walking graph (31s)
+  Still working: [2/4] Building and simplifying filtered walking graph (46s)
+  Still working: [2/4] Building and simplifying filtered walking graph (61s)
+2026-11-19 19:54:27 Retrieved all data from API in 1 request(s)
+2026-11-19 19:54:27 Creating graph from 654,621 OSM nodes and 161,589 OSM ways...
+  Still working: [2/4] Building and simplifying filtered walking graph (76s)
+2026-11-19 19:54:55 Created graph with 654,621 nodes and 1,418,180 edges
+  Still working: [2/4] Building and simplifying filtered walking graph (91s)
+  Still working: [2/4] Building and simplifying filtered walking graph (106s)
+2026-11-19 19:55:13 Added length attributes to graph edges
+2026-11-19 19:55:15 Begin topologically simplifying the graph...
+  Still working: [2/4] Building and simplifying filtered walking graph (122s)
+  Still working: [2/4] Building and simplifying filtered walking graph (140s)
+  Still working: [2/4] Building and simplifying filtered walking graph (171s)
+2026-11-19 19:56:31 Identified 190,367 edge endpoints
+  Still working: [2/4] Building and simplifying filtered walking graph (187s)
+  Still working: [2/4] Building and simplifying filtered walking graph (202s)
+  Still working: [2/4] Building and simplifying filtered walking graph (217s)
+  Still working: [2/4] Building and simplifying filtered walking graph (232s)
+  Still working: [2/4] Building and simplifying filtered walking graph (247s)
+  Still working: [2/4] Building and simplifying filtered walking graph (262s)
+  Still working: [2/4] Building and simplifying filtered walking graph (277s)
+  Still working: [2/4] Building and simplifying filtered walking graph (292s)
+  Still working: [2/4] Building and simplifying filtered walking graph (307s)
+  Still working: [2/4] Building and simplifying filtered walking graph (322s)
+2026-11-19 19:58:51 Simplified graph: 654,621 to 190,367 nodes, 1,418,180 to 489,672 edges
+  Still working: [2/4] Building and simplifying filtered walking graph (337s)
+2026-11-19 19:59:04 graph_from_xml returned graph with 190,367 nodes and 489,672 edges
+  Elapsed: 341.1s
+[3/4] Projecting to EPSG:32748
+2026-11-19 19:59:18 Created nodes GeoDataFrame from graph
+2026-11-19 19:59:19 Projected GeoDataFrame to 'EPSG:32748 / WGS 84 / UTM zone 48S'
+  Still working: [3/4] Projecting to EPSG:32748 (15s)
+2026-11-19 19:59:31 Created edges GeoDataFrame from graph
+2026-11-19 19:59:33 Projected GeoDataFrame to 'EPSG:32748 / WGS 84 / UTM zone 48S'
+2026-11-19 19:59:34 Validated that node/edge GeoDataFrames can be converted to a MultiDiGraph.
+  Still working: [3/4] Projecting to EPSG:32748 (30s)
+  Still working: [3/4] Projecting to EPSG:32748 (45s)
+2026-11-19 20:00:04 Created graph from node/edge GeoDataFrames
+2026-11-19 20:00:04 Projected graph with 190367 nodes and 489672 edges
+  Still working: [3/4] Projecting to EPSG:32748 (61s)
+  Elapsed: 61.1s
+[4/4] Saving complete network atomically
+  Still working: [4/4] Saving complete network atomically (15s)
+  Still working: [4/4] Saving complete network atomically (31s)
+  Still working: [4/4] Saving complete network atomically (46s)
+  Still working: [4/4] Saving complete network atomically (61s)
+  Still working: [4/4] Saving complete network atomically (76s)
+  Still working: [4/4] Saving complete network atomically (121s)
+  Still working: [4/4] Saving complete network atomically (136s)
+  Still working: [4/4] Saving complete network atomically (151s)
+  Still working: [4/4] Saving complete network atomically (166s)
+  Still working: [4/4] Saving complete network atomically (181s)
+2026-11-19 20:03:20 Saved graph as GraphML file at 'D:\\jakarta-heat\\data\\processed\\walk_jakarta_all.partial.graphml'
+  Still working: [4/4] Saving complete network atomically (197s)
+  Elapsed: 197.2s
+SUCCESS! Nodes: 190,367; edges: 489,672
+Saved: D:\jakarta-heat\data\processed\walk_jakarta_all.graphml
+Finished: exit code 0; total elapsed 16.66 minutes
